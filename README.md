@@ -1,4 +1,4 @@
-<h1 align="center">Ederick Fernandez</h1>
+<h1 align="left">Ederick Fernandez</h1>
     - 🌱 I’m currently working on [BoxChat](https://github.com/EderickLF/box_chat)
     - 📖 Reading on
         ReactNative
@@ -10,8 +10,6 @@
     - 📄<a href="#">My Resume!</a>
     <!-- <img align="right" width="30%" src="redComputer.gif"> -->
   
-
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/bytesz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bytesz" height="30" width="40" /></a>
