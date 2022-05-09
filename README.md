@@ -1,4 +1,5 @@
-<h1 align="left">Ederick Fernandez</h1>
+<h1 align="center">Ederick Fernandez</h1>
+
     - 🌱 I’m currently working on [BoxChat](https://github.com/EderickLF/box_chat)
     - 📖 Reading on
         ReactNative
