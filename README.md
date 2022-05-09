@@ -1,7 +1,7 @@
 
 
 
-|  |  |
+|||
 |-|-|
 |<p>🌱 I’m currently working on [BoxChat📦](https://github.com/EderickLFbox_chat)</p><p>👀 Looking for work!</p> <p>📖 Reading on</p> <ul><li>ReactNative</li><li>Unity / Unreal Engine</li></ul> <p>🏓 Interests</p><ul><li>Gaming</li><li>Gym</li><li>Cooking</li></ul> <p>✉️ EderickFernandez@gmail.com</p>| <img src="redComputer.gif" width="100%"> | 
   
