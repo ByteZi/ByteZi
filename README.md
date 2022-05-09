@@ -1,5 +1,5 @@
 <h1 align="center">Ederick Fernandez</h1>
-
+    <p align="left">
     - 🌱 I’m currently working on [BoxChat](https://github.com/EderickLF/box_chat)
     - 📖 Reading on
         ReactNative
@@ -9,6 +9,7 @@
         Gym
         Cooking
     - 📄<a href="#">My Resume!</a>
+    </p>
     <!-- <img align="right" width="30%" src="redComputer.gif"> -->
   
 <!-- <h3 align="left">Connect with me:</h3>
