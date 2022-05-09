@@ -23,7 +23,7 @@
 <h1>Projects</h1>
 
 <div>
-    <a href="https://github.com/EderickLF/box_chat"><h3>WeatherLoaf</h3></a>
+    <h3><a href="https://github.com/EderickLF/box_chat">WeatherLoaf</a></h3>
     <p>WeatherLoaf, a ReactJS project that utilizes the weather-API. The website enables the user to check the weather of a city via searching the name</p>
     <img src="weatherloaf.gif">
 </div>
