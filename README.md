@@ -13,8 +13,8 @@
 
 <h3> [WeatherLoaf](https://github.com/EderickLF/box_chat) </h3>
 <p>WeatherLoaf, a ReactJS project that utilizes the weather-API. The website enables the user to check the weather of a city via searching the name</p>
-<img src="">
+<img src="weatherloaf.gif">
 
 <h3> [BoxChat](https://github.com/EderickLF/weather-api) </h3>
 <p>BoxChat, A reactJS project that uses [WebSockets](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API). BoxChat enables realtime user chatting within rooms that can be created. </p>
-<img src="">
+<img src="BoxChat.gif">
