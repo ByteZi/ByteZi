@@ -1,6 +1,6 @@
 <h1 align="center">Ederick Fernandez</h1>
 <div>
-    <div align="left" width="47%" height="20%">
+    <div align="left" width="30%">
     - 🌱 I’m currently working on [BoxChat](https://github.com/EderickLF/box_chat)
     - 📖 Reading on
         ReactNative
@@ -13,7 +13,7 @@
     - 📄<a href="#">My Resume!</a>
     <div>
     <div>
-        <img align="right" width="47%" height="20%" src="redComputer.gif">
+        <img align="right" width="30%" src="redComputer.gif">
     </div>
 <div>
 
