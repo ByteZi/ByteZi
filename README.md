@@ -3,7 +3,7 @@
 
 |||
 |-|-|
-|<div width="50%"><p>🌱 I’m currently working on [BoxChat📦](https://github.com/EderickLFbox_chat)</p><p>👀 Looking for work!</p> <p>📖 Reading on</p> <ul><li>ReactNative</li><li>Unity / Unreal Engine</li></ul> <p>🏓 Interests</p><ul><li>Gaming</li><li>Gym</li><li>Cooking</li></ul> <p>✉️ EderickFernandez@gmail.com</p></div>| <img src="redComputer.gif" width="50%"> | 
+|<div width="50%"><p>🌱 I’m currently working on [BoxChat📦](https://github.com/EderickLFbox_chat)</p><p>👀 Looking for work!</p> <p>📖 Reading on</p> <ul><li>ReactNative</li><li>Unity / Unreal Engine</li></ul> <p>🏓 Interests</p><ul><li>Gaming</li><li>Gym</li><li>Cooking</li></ul> <p>✉️ EderickFernandez@gmail.com</p></div>| <img src="redComputer.gif" width="100%"> | 
   
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
